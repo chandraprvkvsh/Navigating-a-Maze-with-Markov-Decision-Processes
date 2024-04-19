@@ -6,7 +6,7 @@ This project is from scratch(only NumPy, Pandas are used).
 
 # Details about the project
 
-A mouse is on a 5 X 5 maze  and its goal is to reach the cheese
+A mouse is on a 5 X 5 maze and its goal is to reach the cheese
 
 The mouse can take actions in each direction  (UP=0, RIGHT=1, DOWN=2, 
 LEFT=3). 
