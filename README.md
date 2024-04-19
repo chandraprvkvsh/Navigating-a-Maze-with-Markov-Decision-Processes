@@ -1,4 +1,3 @@
-# Finding-best-policy-in-a-custom-5x5-maze
 # Brief Introduction
 
 Objective of this project was to illustrate the use of Value iteration technique for Markov Decision Processes
